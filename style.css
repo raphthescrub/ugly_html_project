@@ -1,0 +1,36 @@
+html{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: rgb(241, 219, 14);
+    background-color: rgb(84, 84, 194);
+}
+
+p{
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#charmander_container{
+    background-color:orange;
+    border: rgb(241, 231, 231);
+    border-style: solid;
+    border-radius: 5px;
+}
+
+#bulbasaur_container{
+    background-color: green;
+    border: rgb(241, 231, 231);
+    border-style: solid;
+    border-radius:5px;
+}
+#squirtle_container{
+    background-color: lightblue;
+    border: rgb(241, 231, 231);
+    border-style: solid;
+    border-radius:5px;
+}
+
+.pokemon_images{
+    text-align: center;
+}
